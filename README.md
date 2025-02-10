@@ -1,4 +1,4 @@
-# 🌟 7-Day Python Challenge 🐍🔥
+# 🌟 7-Day Python Coding Challenge 🐍🔥
 🚀 Embarking on a Journey to Master Python!
 
 Hey everyone! 👋 I'm starting an exciting **7-Day Python Challenge** where I will be learning and practicing Python programming every single day! 🏆 My goal is to understand the fundamentals, write efficient code, and build small projects along the way.
